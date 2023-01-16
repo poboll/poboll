@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=poboll)
 
-- contact: [caiths@icloud.com](
+- contact: [caiths@icloud.com]
 
 <!--
 **poboll/poboll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
